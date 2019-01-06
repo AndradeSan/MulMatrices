@@ -136,16 +136,6 @@ namespace MulMatrices
             }
             
         }
-            /*
-                } else {
-                Console. WriteLine ( "Error: No se puede multiplicar las matrices" + " Columnas: {0}! = Filas: {1}" , c1, f2 ) ;
-             
-            }
-
-
-           
-        }
- */
     }
 }
 
